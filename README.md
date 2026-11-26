@@ -18,7 +18,8 @@ Customer churn directly reduces recurring revenue. This dashboard helps teams id
 
 ___
 
-## Screenshot  
+## Screenshot
+![Telco Churn Dashboard Preview](assets/dashboard-preview.png)
 
 ---
 
